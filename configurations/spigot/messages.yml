@@ -1,22 +1,22 @@
 # Messages DE 5.3
 Messages:
-  prefix: '&7[&6Support&7]'
-  noPermission: '&cUnbekannter Befehl!'
+  prefix: '&7[&9Support&7]'
+  noPermission: '&cDazu hast du keine Rechte!'
   syntax: '&cSyntax: &e[command]'
-  succLogin: '&eDu hast dich erfolgreich in das Supportsystem eingeloggt!'
+  succLogin: '&aDu hast dich erfolgreich in das Supportsystem eingeloggt!'
   succLogout: '&cDu hast dich erfolgreich aus dem Supportsystem ausgeloggt!'
   otherLogin: '&e[player] &ahat sich in das Supportsystem eingeloggt!'
   otherLogout: '&e[player] &chat sich aus dem Supportsystem ausgeloggt!'
   alreadyLoggedIn: '&cDu bist bereits ins Supportsystem eingeloggt!'
   notLoggedIn: '&cDu bist nicht ins Supportsystem eingeloggt!'
-  logList: '&eDerzeit sind folgende Spieler in das Supportsystem eingeloggt:'
+  logList: '&aDerzeit sind folgende Spieler in das Supportsystem eingeloggt:'
   login-disabled: '&cLogin deaktiviert!'
   reasons: '&eGründe: &a[reasons]'
-  conversation-layout: '&6[player]: &b[message]'
-  conversation-layout-you: '&6Du: &b[message]'
+  conversation-layout: '&a[player]: &b[message]'
+  conversation-layout-you: '&aDu: &b[message]'
   notInConversation: '&cDu befindest dich in keinem Gespräch!'
   conversationEnd: '&cDas Supportgespräch wurde beendet!'
-  newRequest: '&6Eine neue Supportanfrage steht offen! &f(&9/requests&f)'
+  newRequest: '&aEine neue Supportanfrage steht offen! &7(&9/requests&7)'
   cantReqWhenLogged: '&cDu kannst keinen Support anfordern, wenn du selbst im Supportsystem
     eingeloggt bist!'
   onlyWhenLogged: '&cDu kannst nur Anfragen bearbeiten wenn du im Supportsystem eingeloggt
@@ -26,7 +26,7 @@ Messages:
   alreadyInConversation: '&cDieser Spieler befindet sich bereits in einem Gespräch!'
   youAlreadyInConversation: '&cDu befindest dich bereits in einem Gespräch!'
   youNotLeader: '&cNur der Gesprächsleiter kann das Gespräch beenden!'
-  nowInConversationWith: '&6Du bist nun mit [player] in einem Gespräch!'
+  nowInConversationWith: '&aDu bist nun mit [player] in einem Gespräch!'
   joiningQueue: '&aDu befindest dich nun in der Warteschlange! Bitte habe etwas Geduld!'
   alreadyInQueue: '&cDu befindest dich bereits in der Supportwarteschlange!'
   notOnline: '&cDieser Spieler ist nicht online!'
@@ -38,8 +38,8 @@ Messages:
   idNotFound: '&cDie angegebene ConversationID wurde nicht gefunden!'
   noListener: '&cDu hörst bei keinem Gespräch zu!'
   listeningStopped: '&6Zuhören beendet.'
-  conversationJoined: '&6Du bist dem Gespräch &a([id]) &6von &a[supporter] &6und &a[user]
-    &6als Zuhörer beigetreten.'
+  conversationJoined: '&aDu bist dem Gespräch &e([id]) &avon &9[supporter] &aund &e[user]
+    &aals Zuhörer beigetreten.'
   joined: '&8[+] [player]'
   left: '&8[-] [player]'
   inventory:
